@@ -129,7 +129,7 @@ input[type="submit"]:hover { background-color: #A7C7E7; }
 
 /* Website LOGO */
 div#top-menu {
-    background-image: url("icons/redmine-tw.png");
+    background-image: url("icons/slow_logo.png");
     background-repeat: no-repeat;
     background-position: 10px 48%;
     padding-left: 100px;
